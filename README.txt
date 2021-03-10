@@ -3,7 +3,7 @@ estimation methods in:
 
 Sanz Bernardo et al. (2020) Quantifying and modelling the acquisition and retention of lumpy skin disease virus by
 haematophagus insects reveals clinically but not subclinically-affected cattle are promoters of viral transmission
-and key targets for control of disease outbreaks. bioRxiv (https://doi.org/10.1101/2020.06.18.154252).
+and key targets for control of disease outbreaks. Journal of Virology (in press) (https://doi.org/10.1128/JVI.02239-20).
 
 MATLAB REQUIREMENTS
 The scripts/functions were run using Matlab version 2019b and require the Statistics and Machine Learning and
